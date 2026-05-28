@@ -55,8 +55,7 @@
 > [!TIP]
 > Don't forget to run `npm install` or update your Maven dependencies before starting the application.
 
-> [!WARNING]
-> Make sure to update your `application.properties` or environment variables with your database credentials before running the server.
+
 
 
 
