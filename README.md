@@ -59,9 +59,7 @@
 > Make sure to update your `application.properties` or environment variables with your database credentials before running the server.
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Welcome+to+My+Repository!;Building+Cool+Software;Let's+Collaborate! ✨" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0NjZ4Y29ndmZ3bXZpYXN0b3R3ODFzZ3VjN2h1Z2MxNHp5ZHp6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Animated Laptop">
